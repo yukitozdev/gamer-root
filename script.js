@@ -1,4 +1,4 @@
-const API_KEY = "1ab9ffa56ee14e1abc1a903b7264aaa7";
+const API_KEY = "YOUR API KEY HERE";
 
 const container = document.getElementById("games-container");
 const searchInput = document.getElementById("search");
